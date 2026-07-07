@@ -1,0 +1,116 @@
+ID,Project Name,Camera Trap Name,Latitude,Longitude,X,Y,Sampling Event,Photo Type,Photo Date,Photo time,Time_2,Specie,Sex,Number of Animals,Camera Start Date,Camera End Date,Esfuerzo muestreo
+49,Selva Lacandona,Cam-5 integro,16.84193306,91.1306,673672,1860206,Mastofauna ,Animal,13/05/22,6:23:13,0.266123,Crax rubra,s/i,1,12/04/22,28/05/22,46
+47,Selva Lacandona,Cam-4 degradado,16.8181,91.38299972,672303,1860136,Mastofauna ,Animal,08/03/22,6:23:19,0.266192,Crax rubra,s/i,1,27/01/22,23/03/22,55
+46,Selva Lacandona,CAM-4 INTEGRO SEPT,16.7577,91.1902,673225,1860899,Mastofauna ,Animal,20/11/23,6:45:45,0.281771,Crax rubra,s/i,1,31/08/23,06/12/23,97
+12,Selva Lacandona,CAM-4 INTEGRO SEPT,16.7577,91.1902,673225,1860899,Mastofauna ,Animal,20/11/23,6:46:10,0.28206,Crax rubra,Female,1,31/08/23,06/12/23,97
+13,Selva Lacandona,CAM-4 INTEGRO SEPT,16.7577,91.1902,673225,1860899,Mastofauna ,Animal,20/11/23,6:46:10,0.28206,Crax rubra,Female,1,31/08/23,06/12/23,97
+51,Selva Lacandona,Cam-1 integro dic,16.77386667,91.18,693985,1855429,Mastofauna ,Animal,26/12/21,7:08:16,0.297407,Crax rubra,s/i,1,12/12/21,08/01/22,27
+52,Selva Lacandona,Cam-1 integro dic,16.77386667,91.18,693985,1855429,Mastofauna ,Animal,27/12/21,7:15:45,0.302604,Crax rubra,s/i,1,12/12/21,08/01/22,27
+26,Selva Lacandona,CAM-1 INTEGRO SEPT,16.753,91.1837,698773,1862812,Mastofauna ,Animal,03/12/23,7:40:35,0.31985,Crax rubra,s/i,1,31/08/23,06/12/23,97
+1,Selva Lacandona,CAM-1 INTEGRO SEPT,16.753,91.1837,698773,1862812,Mastofauna ,Animal,03/12/23,7:40:58,0.320116,Crax rubra,Female,1,31/08/23,06/12/23,97
+2,Selva Lacandona,CAM-1 INTEGRO SEPT,16.753,91.1837,698773,1862812,Mastofauna ,Animal,03/12/23,7:40:58,0.320116,Crax rubra,Male,1,31/08/23,06/12/23,97
+57,Selva Lacandona,Cam-1 integro dic,16.77386667,91.18,693985,1855429,Mastofauna ,Animal,08/01/22,7:45:02,0.32294,Crax rubra,s/i,1,12/12/21,08/01/22,27
+42,Selva Lacandona,Cam-4 integro dic,16.76279972,91.17809972,694199,1854206,Mastofauna ,Animal,15/12/21,8:01:24,0.334306,Crax rubra,s/i,1,09/12/21,10/01/22,32
+31,Selva Lacandona,CAM-2 INTEGRO SEPT,16.7572,91.177,698309,1863253,Mastofauna ,Animal,01/12/23,8:38:00,0.359722,Crax rubra,s/i,1,30/08/23,06/12/23,98
+7,Selva Lacandona,CAM-2 INTEGRO SEPT,16.7572,91.177,698309,1863253,Mastofauna ,Animal,01/12/23,8:38:01,0.359734,Crax rubra,Female,1,30/08/23,06/12/23,98
+33,Selva Lacandona,CAM-1 INTEGRO JULIO,16.8434,91.1329,698934,1863171,Mastofauna ,Animal,09/07/23,8:40:48,0.361667,Crax rubra,s/i,1,01/07/23,26/07/23,25
+98,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,15/04/23,6:17:18,0.262014,Crax rubra,Male,1,04/04/23,24/04/23,20
+100,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,16/04/23,6:23:36,0.266389,Crax rubra,Female,1,04/04/23,24/04/23,20
+112,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,22/04/23,6:32:04,0.272269,Crax rubra,Female,1,04/04/23,24/04/23,20
+110,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,21/04/23,6:37:17,0.275891,Crax rubra,Female,1,04/04/23,24/04/23,20
+102,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,17/04/23,6:39:04,0.27713,Crax rubra,Male,1,04/04/23,24/04/23,20
+103,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,17/04/23,6:39:06,0.277153,Crax rubra,Female,1,04/04/23,24/04/23,20
+114,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,23/04/23,6:49:33,0.28441,Crax rubra,Male,1,04/04/23,24/04/23,20
+94,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,12/04/23,6:50:19,0.284942,Crax rubra,Male,1,04/04/23,24/04/23,20
+64,El Zapotal,Zoomat5,16.72235,-93.09858,489491,1848843,Mastofauna ,Animal,20/02/23,6:51:51,0.286007,Crax rubra,Male,1,18/02/23,04/03/23,14
+95,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,14/04/23,6:57:40,0.290046,Crax rubra,Female,1,04/04/23,24/04/23,20
+83,El Zapotal,Zoomat3,16.71933,-93.10155,489175,1848509,Mastofauna ,Animal,03/03/23,6:58:01,0.290289,Crax rubra,Male,1,18/02/23,04/03/23,14
+84,El Zapotal,Zoomat3,16.71933,-93.10155,489175,1848509,Mastofauna ,Animal,03/03/23,6:58:01,0.290289,Crax rubra,Female,1,18/02/23,04/03/23,14
+88,El Zapotal,Zoomat5,16.72235,-93.09858,489491,1848843,Mastofauna ,Animal,04/03/23,7:05:54,0.295764,Crax rubra,Female,1,18/02/23,04/03/23,14
+101,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,16/04/23,7:11:01,0.299317,Crax rubra,Female,1,04/04/23,24/04/23,20
+89,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,05/04/23,7:19:04,0.304907,Crax rubra,Male,1,04/04/23,24/04/23,20
+60,El Zapotal,Zoomat2,16.72221,-93.09595,489772,1848827,Mastofauna ,Animal,19/02/23,7:38:02,0.318079,Crax rubra,Male,1,18/02/23,04/03/23,14
+90,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,05/04/23,7:43:41,0.322002,Crax rubra,Female,1,04/04/23,24/04/23,20
+91,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,05/04/23,7:43:43,0.322025,Crax rubra,Female,1,04/04/23,24/04/23,20
+67,El Zapotal,Zoomat3,16.71933,-93.10155,489175,1848509,Mastofauna ,Animal,22/02/23,9:07:24,0.380139,Crax rubra,Female,1,18/02/23,04/03/23,14
+61,El Zapotal,Zoomat3,16.71933,-93.10155,489175,1848509,Mastofauna ,Animal,19/02/23,10:14:33,0.426771,Crax rubra,Female,1,18/02/23,04/03/23,14
+76,El Zapotal,Zoomat3,16.71933,-93.10155,489175,1848509,Mastofauna ,Animal,28/02/23,11:03:48,0.460972,Crax rubra,Male,1,18/02/23,04/03/23,14
+71,El Zapotal,Zoomat5,16.72235,-93.09858,489491,1848843,Mastofauna ,Animal,26/02/23,11:07:07,0.463275,Crax rubra,Male,1,18/02/23,04/03/23,14
+62,El Zapotal,Zoomat1,16.724,-93.0944,489937,1849025,Mastofauna ,Animal,19/02/23,11:08:01,0.4639,Crax rubra,Female,1,18/02/23,04/03/23,14
+75,El Zapotal,Zoomat3,16.71933,-93.10155,489175,1848509,Mastofauna ,Animal,27/02/23,11:27:02,0.477106,Crax rubra,Female,1,18/02/23,04/03/23,14
+106,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,18/04/23,12:05:24,0.50375,Crax rubra,Female,1,04/04/23,24/04/23,20
+70,El Zapotal,Zoomat5,16.72235,-93.09858,489491,1848843,Mastofauna ,Animal,24/02/23,12:10:05,0.507002,Crax rubra,Male,1,18/02/23,04/03/23,14
+77,El Zapotal,Zoomat1,16.724,-93.0944,489937,1849025,Mastofauna ,Animal,28/02/23,12:19:02,0.513218,Crax rubra,Female,1,18/02/23,04/03/23,14
+78,El Zapotal,Zoomat1,16.724,-93.0944,489937,1849025,Mastofauna ,Animal,01/03/23,12:33:37,0.523345,Crax rubra,Female,1,18/02/23,04/03/23,14
+85,El Zapotal,Zoomat1,16.724,-93.0944,489937,1849025,Mastofauna ,Animal,03/03/23,12:36:48,0.525556,Crax rubra,Female,1,18/02/23,04/03/23,14
+86,El Zapotal,Zoomat2,16.72221,-93.09595,489772,1848827,Mastofauna ,Animal,03/03/23,12:36:48,0.525556,Crax rubra,Male,1,18/02/23,04/03/23,14
+72,El Zapotal,Zoomat5,16.72235,-93.09858,489491,1848843,Mastofauna ,Animal,26/02/23,12:37:39,0.526146,Crax rubra,Female,1,18/02/23,04/03/23,14
+79,El Zapotal,Zoomat5,16.72235,-93.09858,489491,1848843,Mastofauna ,Animal,01/03/23,13:11:09,0.54941,Crax rubra,Female,1,18/02/23,04/03/23,14
+108,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,20/04/23,13:21:06,0.556319,Crax rubra,Female,1,04/04/23,24/04/23,20
+87,El Zapotal,Zoomat1,16.724,-93.0944,489937,1849025,Mastofauna ,Animal,03/03/23,13:21:21,0.556493,Crax rubra,Female,1,18/02/23,04/03/23,14
+80,El Zapotal,Zoomat4,16.72435,-93.10031,489307,1849064,Mastofauna ,Animal,01/03/23,13:23:13,0.557789,Crax rubra,Female,1,18/02/23,04/03/23,14
+92,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,07/04/23,13:25:52,0.55963,Crax rubra,Female,1,04/04/23,24/04/23,20
+73,El Zapotal,Zoomat5,16.72235,-93.09858,489491,1848843,Mastofauna ,Animal,26/02/23,14:35:11,0.607766,Crax rubra,Female,1,18/02/23,04/03/23,14
+115,El Zapotal,Zoomat9,16.72522,-93.09955,489388,1849161,Mastofauna ,Animal,23/04/23,14:35:23,0.607905,Crax rubra,Male,1,04/04/23,24/04/23,20
+65,El Zapotal,Zoomat1,16.724,-93.0944,489937,1849025,Mastofauna ,Animal,20/02/23,14:58:23,0.623877,Crax rubra,Female,1,18/02/23,04/03/23,14
+58,El Zapotal,Zoomat5,16.72235,-93.09858,489491,1848843,Mastofauna ,Animal,18/02/23,15:28:07,0.644525,Crax rubra,Female,1,18/02/23,04/03/23,14
+59,El Zapotal,Zoomat5,16.72235,-93.09858,489491,1848843,Mastofauna ,Animal,18/02/23,15:31:46,0.64706,Crax rubra,Male,1,18/02/23,04/03/23,14
+111,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,21/04/23,15:59:11,0.6661,Crax rubra,Male,1,04/04/23,24/04/23,20
+74,El Zapotal,Zoomat5,16.72235,-93.09858,489491,1848843,Mastofauna ,Animal,26/02/23,16:21:31,0.681609,Crax rubra,Male,1,18/02/23,04/03/23,14
+63,El Zapotal,Zoomat5,16.72235,-93.09858,489491,1848843,Mastofauna ,Animal,19/02/23,16:38:49,0.693623,Crax rubra,Female,1,18/02/23,04/03/23,14
+81,El Zapotal,Zoomat5,16.72235,-93.09858,489491,1848843,Mastofauna ,Animal,02/03/23,16:41:04,0.695185,Crax rubra,Male,1,18/02/23,04/03/23,14
+82,El Zapotal,Zoomat5,16.72235,-93.09858,489491,1848843,Mastofauna ,Animal,02/03/23,16:41:46,0.695671,Crax rubra,Female,1,18/02/23,04/03/23,14
+104,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,17/04/23,17:02:26,0.710023,Crax rubra,Female,1,04/04/23,24/04/23,20
+109,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,20/04/23,17:04:27,0.711424,Crax rubra,Female,1,04/04/23,24/04/23,20
+69,El Zapotal,Zoomat3,16.71933,-93.10155,489175,1848509,Mastofauna ,Animal,23/02/23,17:05:11,0.711933,Crax rubra,Female,1,18/02/23,04/03/23,14
+66,El Zapotal,Zoomat4,16.72435,-93.10031,489307,1849064,Mastofauna ,Animal,21/02/23,17:10:15,0.715451,Crax rubra,Male,1,18/02/23,04/03/23,14
+107,El Zapotal,Zoomat9,16.72522,-93.09955,489388,1849161,Mastofauna ,Animal,19/04/23,17:34:49,0.732512,Crax rubra,Female,1,04/04/23,24/04/23,20
+99,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,15/04/23,17:35:12,0.732778,Crax rubra,Male,1,04/04/23,24/04/23,20
+68,El Zapotal,Zoomat1,16.724,-93.0944,489937,1849025,Mastofauna ,Animal,22/02/23,17:38:15,0.734896,Crax rubra,Male,1,18/02/23,04/03/23,14
+96,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,14/04/23,17:43:26,0.738495,Crax rubra,Male,1,04/04/23,24/04/23,20
+97,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,14/04/23,18:07:27,0.755174,Crax rubra,Male,1,04/04/23,24/04/23,20
+93,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,09/04/23,18:19:41,0.763669,Crax rubra,Male,1,04/04/23,24/04/23,20
+113,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,22/04/23,18:22:33,0.76566,Crax rubra,Female,1,04/04/23,24/04/23,20
+105,El Zapotal,Zoomat10,16.72577,-93.09677,489685,1849221,Mastofauna ,Animal,17/04/23,18:34:12,0.77375,Crax rubra,Female,1,04/04/23,24/04/23,20
+14,Selva Lacandona,CAM-1 INTEGRO JULIO,16.8434,91.1329,698934,1863171,Mastofauna ,Animal,09/07/23,8:45:14,0.364745,Crax rubra,Female,1,01/07/23,26/07/23,25
+20,Selva Lacandona,CAM-3 INTEGRO JULIO,16.8425,91.1377,698423,1863066,Mastofauna ,Animal,26/07/23,8:55:59,0.372211,Crax rubra,Female,1,01/07/23,26/07/23,25
+21,Selva Lacandona,CAM-3 INTEGRO JULIO,16.8425,91.1377,698423,1863066,Mastofauna ,Animal,26/07/23,8:56:11,0.37235,Crax rubra,Male,1,01/07/23,26/07/23,25
+41,Selva Lacandona,CAM-3 INTEGRO JULIO,16.8425,91.1377,698423,1863066,Mastofauna ,Animal,26/07/23,8:56:22,0.372477,Crax rubra,s/i,1,01/07/23,26/07/23,25
+40,Selva Lacandona,CAM-3 INTEGRO JULIO,16.8425,91.1377,698423,1863066,Mastofauna ,Animal,25/07/23,9:01:45,0.376215,Crax rubra,s/i,1,01/07/23,26/07/23,25
+19,Selva Lacandona,CAM-3 INTEGRO JULIO,16.8425,91.1377,698423,1863066,Mastofauna ,Animal,25/07/23,9:01:46,0.376227,Crax rubra,Female,1,01/07/23,26/07/23,25
+43,Selva Lacandona,Cam-4 integro dic,16.76279972,91.17809972,694199,1854206,Mastofauna ,Animal,22/12/21,9:04:01,0.377789,Crax rubra,s/i,1,09/12/21,10/01/22,32
+10,Selva Lacandona,CAM-3 INTEGRO SEPT,16.7647,91.1837,672197,1861025,Mastofauna ,Animal,04/09/23,9:19:36,0.388611,Crax rubra,Female,1,30/08/23,06/12/23,98
+37,Selva Lacandona,CAM-3 INTEGRO SEPT,16.7647,91.1837,672197,1861025,Mastofauna ,Animal,04/09/23,9:19:36,0.388611,Crax rubra,s/i,1,30/08/23,06/12/23,98
+45,Selva Lacandona,Cam-5 integro,16.84193306,91.1306,673672,1860206,Mastofauna ,Animal,23/04/22,9:26:24,0.393333,Crax rubra,s/i,1,12/04/22,28/05/22,46
+30,Selva Lacandona,CAM-2 INTEGRO SEPT,16.7572,91.177,698309,1863253,Mastofauna ,Animal,24/10/23,9:52:46,0.411644,Crax rubra,s/i,1,30/08/23,06/12/23,98
+6,Selva Lacandona,CAM-2 INTEGRO SEPT,16.7572,91.177,698309,1863253,Mastofauna ,Animal,24/10/23,9:52:47,0.411655,Crax rubra,Female,1,30/08/23,06/12/23,98
+35,Selva Lacandona,CAM-1 INTEGRO JULIO,16.8434,91.1329,698934,1863171,Mastofauna ,Animal,25/07/23,10:00:39,0.417118,Crax rubra,s/i,1,01/07/23,26/07/23,25
+16,Selva Lacandona,CAM-1 INTEGRO JULIO,16.8434,91.1329,698934,1863171,Mastofauna ,Animal,25/07/23,10:02:04,0.418102,Crax rubra,Female,1,01/07/23,26/07/23,25
+17,Selva Lacandona,CAM-1 INTEGRO JULIO,16.8434,91.1329,698934,1863171,Mastofauna ,Animal,25/07/23,10:02:04,0.418102,Crax rubra,Female,1,01/07/23,26/07/23,25
+18,Selva Lacandona,CAM-1 INTEGRO JULIO,16.8434,91.1329,698934,1863171,Mastofauna ,Animal,25/07/23,10:02:04,0.418102,Crax rubra,Male,1,01/07/23,26/07/23,25
+22,Selva Lacandona,CAM-5 INTEGRO JULIO,16.8432,91.1291,699339,1863152,Mastofauna ,Animal,12/07/23,10:10:34,0.424005,Crax rubra,Male,1,30/06/23,27/07/23,27
+24,Selva Lacandona,CAM-5 INTEGRO JULIO,16.8432,91.1291,699339,1863152,Mastofauna ,Animal,12/07/23,10:10:34,0.424005,Crax rubra,s/i,1,30/06/23,27/07/23,27
+36,Selva Lacandona,CAM-3 INTEGRO SEPT,16.7647,91.1837,672197,1861025,Mastofauna ,Animal,03/09/23,11:01:50,0.459606,Crax rubra,s/i,1,30/08/23,06/12/23,98
+9,Selva Lacandona,CAM-3 INTEGRO SEPT,16.7647,91.1837,672197,1861025,Mastofauna ,Animal,03/09/23,11:02:43,0.46022,Crax rubra,Female,1,30/08/23,06/12/23,98
+44,Selva Lacandona,Cam-4 integro dic,16.76279972,91.17809972,694199,1854206,Mastofauna ,Animal,05/01/22,11:04:13,0.461262,Crax rubra,s/i,1,09/12/21,10/01/22,32
+11,Selva Lacandona,CAM-3 INTEGRO SEPT,16.7647,91.1837,672197,1861025,Mastofauna ,Animal,03/10/23,12:20:25,0.514178,Crax rubra,Female,1,30/08/23,06/12/23,98
+38,Selva Lacandona,CAM-3 INTEGRO SEPT,16.7647,91.1837,672197,1861025,Mastofauna ,Animal,03/10/23,12:20:25,0.514178,Crax rubra,s/i,1,30/08/23,06/12/23,98
+39,Selva Lacandona,CAM-3 INTEGRO SEPT,16.7647,91.1837,672197,1861025,Mastofauna ,Animal,03/10/23,12:20:25,0.514178,Crax rubra,s/i,1,30/08/23,06/12/23,98
+34,Selva Lacandona,CAM-1 INTEGRO JULIO,16.8434,91.1329,698934,1863171,Mastofauna ,Animal,14/07/23,13:54:20,0.579398,Crax rubra,s/i,1,01/07/23,26/07/23,25
+15,Selva Lacandona,CAM-1 INTEGRO JULIO,16.8434,91.1329,698934,1863171,Mastofauna ,Animal,14/07/23,13:54:39,0.579618,Crax rubra,Female,1,01/07/23,26/07/23,25
+55,Selva Lacandona,Cam-1 integro dic,16.77386667,91.18,693985,1855429,Mastofauna ,Animal,04/01/22,14:31:45,0.605382,Crax rubra,s/i,1,12/12/21,08/01/22,27
+28,Selva Lacandona,CAM-2 INTEGRO SEPT,16.7572,91.177,698309,1863253,Mastofauna ,Animal,23/10/23,14:40:10,0.611227,Crax rubra,s/i,1,30/08/23,06/12/23,98
+4,Selva Lacandona,CAM-2 INTEGRO SEPT,16.7572,91.177,698309,1863253,Mastofauna ,Animal,23/10/23,14:42:17,0.612697,Crax rubra,Male,1,30/08/23,06/12/23,98
+50,Selva Lacandona,Cam-1 integro dic,16.77386667,91.18,693985,1855429,Mastofauna ,Animal,23/12/21,14:51:26,0.619051,Crax rubra,s/i,1,12/12/21,08/01/22,27
+23,Selva Lacandona,CAM-5 INTEGRO JULIO,16.8432,91.1291,699339,1863152,Mastofauna ,Animal,12/07/23,15:02:43,0.626887,Crax rubra,Male,1,30/06/23,27/07/23,27
+25,Selva Lacandona,CAM-5 INTEGRO JULIO,16.8432,91.1291,699339,1863152,Mastofauna ,Animal,12/07/23,15:02:44,0.626898,Crax rubra,s/i,1,30/06/23,27/07/23,27
+54,Selva Lacandona,Cam-1 integro dic,16.77386667,91.18,693985,1855429,Mastofauna ,Animal,28/12/21,15:20:47,0.639433,Crax rubra,s/i,1,12/12/21,08/01/22,27
+29,Selva Lacandona,CAM-2 INTEGRO SEPT,16.7572,91.177,698309,1863253,Mastofauna ,Animal,23/10/23,15:30:59,0.646516,Crax rubra,s/i,1,30/08/23,06/12/23,98
+5,Selva Lacandona,CAM-2 INTEGRO SEPT,16.7572,91.177,698309,1863253,Mastofauna ,Animal,23/10/23,15:31:56,0.647176,Crax rubra,Female,1,30/08/23,06/12/23,98
+48,Selva Lacandona,Cam-5 integro,16.84193306,91.1306,673672,1860206,Mastofauna ,Animal,12/05/22,16:09:02,0.67294,Crax rubra,s/i,1,12/04/22,28/05/22,46
+27,Selva Lacandona,CAM-2 INTEGRO SEPT,16.7572,91.177,698309,1863253,Mastofauna ,Animal,08/10/23,16:17:56,0.67912,Crax rubra,s/i,1,30/08/23,06/12/23,98
+3,Selva Lacandona,CAM-2 INTEGRO SEPT,16.7572,91.177,698309,1863253,Mastofauna ,Animal,08/10/23,16:17:57,0.679132,Crax rubra,Male,1,30/08/23,06/12/23,98
+8,Selva Lacandona,CAM-2 INTEGRO SEPT,16.7572,91.177,698309,1863253,Mastofauna ,Animal,04/12/23,16:30:14,0.687662,Crax rubra,Female,1,30/08/23,06/12/23,98
+32,Selva Lacandona,CAM-2 INTEGRO SEPT,16.7572,91.177,698309,1863253,Mastofauna ,Animal,04/12/23,16:30:14,0.687662,Crax rubra,s/i,1,30/08/23,06/12/23,98
+56,Selva Lacandona,Cam-1 integro dic,16.77386667,91.18,693985,1855429,Mastofauna ,Animal,07/01/22,16:48:14,0.700162,Crax rubra,s/i,1,12/12/21,08/01/22,27
+53,Selva Lacandona,Cam-1 integro dic,16.77386667,91.18,693985,1855429,Mastofauna ,Animal,27/12/21,17:20:59,0.722905,Crax rubra,s/i,1,12/12/21,08/01/22,27
